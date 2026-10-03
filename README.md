@@ -1,7 +1,6 @@
 # AWS 3-Tier Web Application
 
-## Project Overview
-
+![AWS 3-Tier Architecture](architecture.png)
 This project demonstrates the design and deployment of a secure and scalable 3-tier web application architecture on Amazon Web Services (AWS).
 
 The project was built as a hands-on cloud engineering exercise to gain practical experience with AWS networking, compute, load balancing, databases, security, monitoring, and scalability.
